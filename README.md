@@ -11,10 +11,10 @@ During this Micro-Experience, I:
 
 
 QMoney Architecture<br/><br/>
-![Basic Concept Image](https://github.com/Pankaj4398/QMoney/tree/main/report-image/image-0.png)
+![Basic Concept Image](https://github.com/Pankaj4398/QMoney/blob/b795afb32f38b4ed71bad7a8e1b582299a028273/report-image/image-0.png)
 
 <br/>QMoney Portfolio Manager Interface<br/><br/>
-![Basic Concept Image](https://github.com/Pankaj4398/QMoney/tree/main/report-image/image-1.png)
+![Basic Concept Image](https://github.com/Pankaj4398/QMoney/blob/b795afb32f38b4ed71bad7a8e1b582299a028273/report-image/image-0.png)
 
 
 
