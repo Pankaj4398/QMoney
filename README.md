@@ -1,4 +1,4 @@
-# Crio-Launch-Feb-2020-thummarm097-ME_QMONEY
+# Crio-Launch-Nov-2020-thummarm097-ME_QMONEY
 QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
 
 During this Micro-Experience, I:
@@ -11,10 +11,10 @@ During this Micro-Experience, I:
 
 
 QMoney Architecture<br/><br/>
-![Basic Concept Image](https://github.com/Milan097/Crio-Launch-Feb-2020-thummarm097-ME_QMONEY/blob/master/report-image/image-0.png)
+![Basic Concept Image](https://github.com/Pankaj4398/QMoney/tree/main/report-image/image-0.png)
 
 <br/>QMoney Portfolio Manager Interface<br/><br/>
-![Basic Concept Image](https://github.com/Milan097/Crio-Launch-Feb-2020-thummarm097-ME_QMONEY/blob/master/report-image/image-1.png)
+![Basic Concept Image](https://github.com/Pankaj4398/QMoney/tree/main/report-image/image-1.png)
 
 
 
