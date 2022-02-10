@@ -1,4 +1,4 @@
-# Crio-Launch-Nov-2021-ME_QMONEY
+# Nov-2021-ME_QMONEY
 QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
 
 During this Micro-Experience, I:
