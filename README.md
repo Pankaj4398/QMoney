@@ -48,3 +48,6 @@ QMoney Modules
               2. Improved application stability with comprehensive error reporting and better exception handling.<br/><br/>              
       - Skills Learned:<br/><br/>
                Interfaces, Exception Handling
+
+
+Tech Used - Java | Gradle | Rest API | Jackson | Interface | JUnit | Mockito | Stream
